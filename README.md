@@ -1,4 +1,4 @@
-# WingTel Coding Challenge
+# Coding Challenge
 
 ## Requirements
 * Python 3.5+
